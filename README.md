@@ -1,8 +1,15 @@
 # CSI-5460-Project
 
-CSI- 5460 Details
+Instruction file
+
+HEADING : Social Engineering attacks and counter measure using AI
 
 
-This file contains all the details on how to download the project files uploaded.
+This file will  contain all the details regarding the research material .
+
+Group members :
+Pranavi Gaday
+Madhavi Patluri
+Niharika Garimella
 
 
