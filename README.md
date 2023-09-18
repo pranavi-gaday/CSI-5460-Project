@@ -1,4 +1,4 @@
-# CSI-5460-Project
+# CSI-5460-Project : Social Engineering attacks and counter measure using AI
 
 Instruction file
 
