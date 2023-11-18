@@ -1,0 +1,146 @@
+Title : AI threats in social engineering and its countermeasure
+
+Authors: Pranavi Gaday, Niharika Garimella, Madhavi Patluri, Darshana Shishode
+
+
+
+ABSTRACT
+
+The increasing effectiveness of AI-enhanced social engineering assaults is posing a new threat to cybersecurity. This study introduces a unique and cutting-edge countermeasure to these impending threats: Behavioral authentication enabled by artificial intelligence.
+Advanced algorithms are used in AI-enhanced social engineering assaults to mimic human behavior and trick individuals into disclosing sensitive information or acting against their better judgment. Because of their more convincing and individualized character, traditional security measures frequently fall short of identifying these attacks.
+In response to the changing threat landscape, this paper provides an in-depth examination of AI-powered behavioral authentication as a strong countermeasure. This innovative technology employs machine learning algorithms to assess user behavior patterns across digital interactions, resulting in a behavioral biometric profile that is unique to each individual.
+Here we examine the benefits and drawbacks of applying AI-powered behavioral authentication, such as user privacy concerns, data collecting, and the necessity for robust authentication model security.
+Furthermore, the paper addresses the role of regulations and standards in ensuring the responsible use of AI-powered behavioral authentication, emphasizing the importance of transparency and user consent.
+
+INTRODUCTION
+Information security has become one of the most critical concerns for organizations around the world.The use of digital technologies has brought about an increase in cyber threats, which poses a significant threat to organizations. Security Information and Event Management (SIEM) systems have become a necessity in maintaining a secure environment.The SIEM in detecting and responding to cyber threats. Major functions of SIEM, such as log collection, analysis, correlation, and event management, are discussed in detail, emphasizing the need for organizations to adopt these security measures. Despite the benefits, organizations implementing SIEM systems face several challenges.[1] Among these challenges include handling false alerts, managing SIEM systems, and understanding the associated risks. By addressing these challenges, organizations can improve the efficiency and effectiveness of their SIEM systems. In addition to SIEM systems, there are emerging technologies that organizations can use to detect potential threats.[2]An AI-driven methodology for detecting anomalies in real-time data. The machine learning algorithms generate a model that can detect outliers in Apache Spark Streaming systems. The results suggest that AI-based techniques can complement SIEM systems in identifying potential security threats. Furthermore, social engineering attacks have become a significant threat to organizations.[3]there are various viewpoints of probabilistic risk assessment in artificial-enabled social engineering attacks. For effective mitigation strategies to deal with social engineering attacks that capitalize on human weaknesses to access confidential information.for conducting risk assessments to determine possible consequences and creating awareness programs to educate personnel on cybersecurity measures. So the organizations should prioritize their cybersecurity efforts and adopt an integrated approach to secure their data from cyber threats. SIEM systems and AI-based methodologies can significantly enhance an organization's security posture, while effective risk assessment and comprehensive personnel education programs are essential in mitigating social engineering attacks.to demonstrate the importance of a multi-layered approach for achieving comprehensive cybersecurity in the current digital age.[4],[5],[6]
+
+
+Background:
+
+Social engineering attacks are a type of cyberattack that manipulates human psychology to trick people into revealing confidential information or performing actions that comprise information security. Social engineering attacks can be carried out in a variety of ways, including phishing emails, phone scams, and in-person impersonation.
+9 Most Common Examples of Social Engineering Attacks
+In no particular order, here are nine common cyber threats that leverage social engineering tactics to gain access to sensitive information. While most of these attacks occur online, several can rear their heads in physical spaces like offices, apartment buildings, and cafes.
+1. Phishing
+The most pervasive way of implementing social engineering, hackers will use deceptive emails, websites, and text messages to steal sensitive personal or organizational information from unsuspecting victims.
+2. Spear Phishing
+This email scam is used to carry out targeted attacks against individuals or businesses. Spear phishing is more intricate than your average mass phishing email, as it requires in-depth research on potential targets and their organizations
+3. Baiting
+This type of attack can be perpetrated online or in a physical environment. The cyber criminal usually promises the victim a reward in return for sensitive information or knowledge of its whereabouts.
+4. Malware
+A category of attacks that includes ransomware, victims are sent an urgently worded message and tricked into installing malware on their device(s).
+Ironically, a popular tactic is telling the victim that malware has already been installed on their computer and that the sender will remove the software if they pay a fee.
+5. Pretexting
+This attack involves the perpetrator assuming a false identity to trick victims into giving up information. Pretexting is often leveraged against organizations with an abundance of client data, like banks, credit card providers, and utility companies.
+6. Quid Pro Quo
+This attack centers around an exchange of information or service to convince the victim to act. Normally, cyber criminals who carry out these schemes don’t do advanced target research and offer to provide “assistance,” assuming identities like tech support professionals.
+7. Tailgating
+This attack targets an individual who can give a criminal physical access to a secure building or area. These scams are often successful due to a victim’s misguided courtesy, such as if they hold the door open for an unfamiliar “employee.”
+8. Vishing
+In this scenario, cyber criminals will leave urgent voicemails to convince victims they must act quickly to protect themselves from arrest or another risk. Banks, government agencies, and law enforcement agencies are commonly impersonated personas in vishing scams.
+9. Water-Holing
+This attack uses advanced social engineering techniques to infect a website and its visitors with malware. The infection is usually spread through a website specific to the victims’ industry, like a popular website that’s visited regularly.
+Social engineering attacks are a serious threat to organizations of all sizes. According to the Verizon Data Breach Investigations Report 2023, social engineering attacks were involved in 82% of all data breaches in 2022.
+How AI is used in social engineering attacks
+Artificial intelligence (AI) is increasingly being used by attackers to automate and scale social engineering attacks. For example, AI can be used to:
+Generate personalized phishing emails that are more likely to fool the recipient.
+Create deep fakes that can be used to impersonate someone in a video call.
+Identify and target vulnerable individuals and organizations.
+Automate the process of exploiting vulnerabilities.
+How AI can be used to counter social engineering attacks
+AI can also be used to counter social engineering attacks in a number of ways, including:
+Detecting and blocking phishing emails and other malicious messages.
+Identifying and isolating deep fakes and other synthetic media.
+Educating employees about social engineering attacks and how to avoid them.
+Developing new authentication and authorization methods that are more resistant to social engineering attacks.
+Ongoing research
+Researchers are actively developing new ways to use AI to counter social engineering attacks. Some promising areas of research include:
+Using AI to develop more accurate and efficient methods for detecting and blocking phishing emails.
+Using AI to develop new methods for detecting and isolating deepfakes and other synthetic media.
+Using AI to develop new training programs that can help employees identify and avoid social engineering attacks.
+Using AI to develop new authentication and authorization methods that are more resistant to social engineering attacks.
+The goal of this project is to develop new and innovative ways to use AI to counter social engineering attacks. The project will explore a variety of research areas, including:
+Developing new AI algorithms to detect and prevent social engineering attacks.
+Developing new AI-based training programs to educate employees about social engineering attacks.
+Investigating the use of AI to develop new methods of authentication and authorization that are more resistant to social engineering attacks.
+The project will also work to develop and deploy the results of its research in real-world settings. The project team will work with industry partners to develop and deploy AI-based social engineering countermeasures in a variety of industries, including healthcare, finance, and government.
+The project is expected to have a significant impact on the fight against social engineering attacks. By developing new and innovative ways to use AI, the project aims to make it more difficult for attackers to carry out social engineering attacks and to help organizations protect their data and systems from these attacks.
+
+Motivation:
+
+Social engineers also may execute their attacks to gain information just out of curiosity towards the organization or certain information system without any malicious intent.Social engineers even do their operation as an intellectual challenge to satisfy their desire. Revenge or personal grievance is one of the motive that moves social engineers who are usually former staff, business competitors or someone who does not agreed to that organization’s policies to damage the targeted organization’s reputation or business to satisfy their grudge towards that organization.Social engineering may also operate based on political aspect where members from each political parties try to do social engineering attacks to gain critical information about their opposition or personal life information of their opposition’s leader and used it to damage their reputation or to against them in political war.Based on the theoretical framework, domain expert will identity the relevant risk component and using this concept they will map the specific artificial intelligence enabled social engineering risk. It is true that we are producing more and more information and organizing them to seek better ways to extract knowledge. So, turning towards the advances in artificial intelligence. This is the technology that has come to help in many aspects of life such as simple machine learning, indicating the purchase of more practical uses such as in Data Security and financial prediction or speculation. Based on the theoretical framework, domain expert will identify the relevant risk component and  using  this  concept  they  will  map  the  specific  artificial  intelligence  enabled  social  engineering risk. It is true that we are producing more and more information and organizing them  to  seek  better  ways  to  extract  knowledge. So  turning  towards  the  advances  in  artificial intelligence. This is the technology that has come to help in many aspects of life such as simple  machine  learning,  that  indicates purchasing  more  practical  uses  such  as  in  Data  Security  and  financial  prediction  or  speculation. In the online environment, such as SNSs, susceptibility is the risk of falling victim to an attack performed through techniques such as phishing, spying, snooping or impersonation.  Susceptibility to social engineering can be defined as the extent to which a user would fall victim to social engineering trick. Victimization in information security refers to the breach, damage, disabling, or obstruction of an information system (including the user) that prevents the system from ensuring its availability, integrity, authentication, confidentiality, and non-repudiation.  Some e-mail phishing studies (e.g., References [6,32–37]) have measured susceptibility to specific types of e-mail phishing attacks or have studied the effectiveness of one or more phishing countermeasures in relation to some demographic factors. The difference between our study and those studies is that our focus is on social engineering on Facebook, and not using e-mail. Social engineering on Facebook involves several other techniques, such as posts, tags, applications, games, impersonation using fake profiles, and even interactive persuasion using chatting or messaging. 
+
+
+APPROACH
+
+investing in AI-based security solutions is crucial to combat AI-driven social engineering attacks. These solutions leverage artificial intelligence and machine learning to adapt to evolving threats and provide real-time detection and response capabilities. Here are the details on this countermeasure:
+
+AI-Based Security Solutions for AI-Driven Social Engineering:
+
+Behavioral Analysis:
+These solutions analyze user behavior patterns and establish a baseline of normal activity. Any deviations from this baseline can trigger alerts or responses.
+For example, if an employee's behavior suddenly changes, such as accessing sensitive data at odd hours or from unusual locations, the system can detect the anomaly and raise an alarm.
+In marketing and business, AIs have been incorporated into product design and production to create environmentally friendly robots to remove waste and pollutants and track invasive species [9]. AIs can also be used to collect and analyze data about customers (i.e., big data analysis) [10] and to provide personalized information to customers (i.e., chatbot) [11], [12]. However, theoretical discussions about the opportunities and challenges of AI-based marketing and business dominate the literature [13]-​[14]. Empirical research on AI-related products and customers’ perceptions of AI technology and AI-related products still is limited [15], [16].
+Customers’ sense of AI presence could directly affect their cognitive evaluation of the information generated by AIs but not their affective evaluation [17], [18]. However, cognitive evaluation could significantly influence affective evaluation, as the existing theory suggests [19]. Nonetheless, the former might not directly impact customers’ behavior, although the latter did have a significant impact [20][8].
+
+AI can be trained to recognize specific patterns and indicators associated with social engineering attacks. For example, AI can identify attempts to manipulate users through urgency, fear, or deception, or to exploit their trust and authority.
+
+Baseline Profiling: AI systems can establish baseline behavior profiles for each user based on their usual activities, such as login patterns, access requests, communication patterns, and financial transactions. Deviations from these established norms can be flagged as potential anomalies, indicating a possible social engineering attempt.
+Linguistic Analysis: Social engineering attacks often involve communication with users, either through email, chat, or other messaging platforms. AI systems can analyze the language used in these interactions to identify red flags, such as unusual phrasing, excessive urgency, or attempts to manipulate emotions.
+Network Traffic Analysis: AI systems can analyze network traffic patterns to identify suspicious activity, such as attempts to access unauthorized resources, unusual data transfers, or connections from unfamiliar locations.
+Behavior analysis is a powerful tool for detecting social engineering attacks and enhancing overall cybersecurity. By leveraging AI's ability to analyze vast amounts of data, identify subtle behavioral anomalies, and adapt to evolving threats, organizations can significantly reduce their vulnerability to these sophisticated attacks.
+
+
+Anomaly Detection:
+AI-driven security solutions employ anomaly detection algorithms to identify unusual activities within a network or system.
+If there is a sudden influx of data requests from a single user, which is atypical behavior, the system can flag it as suspicious.
+To avoid late identification of unexpected system failures, an effective performance anomaly detection method can be utilized in the production environment.
+
+Because of its speed, generality, ease of use, and compatibility with other Big Data systems, in-memory processing technology, such as Apache Spark, has becoming widely used by industries. In this section, we will look at Spark-based streaming workloads.
+In order to reduce the possibility of being hacked, companies can follow 7/24 monitoring techniques. Staff can keep monitoring about any cyber threat or abnormal situation in network systems in real time. In any case an attack can be detected instantaneously and take an action before the threat gives more damage. Staff can also use different cyber security tools which help and accompany them while detecting a suspicious situation in the server or network. Overall, 7/24 monitoring can enhance the overall security of a company's network system, but it requires extra staff and money as well.
+
+
+
+
+Real-Time Alerts and Responses:
+When an AI-driven social engineering attack is detected, the AI-based security system can send real-time alerts to security personnel.
+Depending on the severity of the threat, automated responses can be initiated, such as quarantining a compromised device or blocking suspicious network traffic.
+
+User and Device Authentication:
+AI-driven solutions can enhance user and device authentication processes. They can analyze login patterns, device fingerprints, and biometric data to ensure the legitimacy of users and devices.
+If a login attempt appears suspicious, the system can challenge the user for additional verification.
+Integration with SIEM:
+Integration with Security Information and Event Management (SIEM) systems allows for more comprehensive threat detection and response.
+When an AI-driven social engineering attack is detected, the AI-based security solution can trigger responses and also feed relevant data to the SIEM for further analysis and correlation with other security events.
+Security Information and Event Management (SIEM) is the state-of-the-practice to address the complexity underlying the collection and normalization of diverse data sources for security analysis. SIEM is the core component of any typical Security Operations Center (SOC), i.e., the centralized response team dealing with security incidents within an organization [1]; however, we observe that integrating a SIEM in a given system is far from being seamless.[2]
+
+Machine Learning Models:
+These solutions use machine learning to continuously analyze and learn from data patterns. This enables them to adapt and evolve with emerging threats.
+The system can identify AI-generated phishing emails by recognizing patterns in the email's structure, content, and sender behavior.
+Threat Intelligence Integration:
+AI security solutions integrate with threat intelligence sources to stay updated on the latest threats and attack vectors.
+If a new AI-driven social engineering technique emerges, the system can quickly adapt to detect and respond to it based on the threat intelligence received.
+
+
+
+REFERENCES
+The Operational Role of Security Information and Event Management Systems.
+Challenges and Directions in Security Information and Event Management (SIEM).
+AI Driven Methodology for Anomaly Detection in Apache Spark Streaming Systems.
+Social Engineering Attack Mitigation- Ahmad Uways Zulkurnain, Ahmad Kamal Bin Kamarun Hamidy, Affandi Bin Husain, Hassan Chizari.
+Viewpoint of Probabilistic Risk Assessment in Artificial Enabled Social Engineering Attacks- Nik Zulkarnaen Khidzir, 1 Shekh Abdullah al-Musa Ahmed1 & Tan Tse Guan.
+What Message Characteristics Make Social Engineering Successful on Facebook: The Role of Central Route, Peripheral Route, and Perceived Risk- Abdullah Algarni.
+B. Nghiêm-Phú, "Customer Perception of AI Presence and Intention Toward AI-Recommended Products," 2023 11th International Conference on Information and Communication Technology (ICoICT), Melaka, Malaysia, 2023, pp. 121-124, doi: 10.1109/ICoICT58202.2023.10262673.
+B. Frank, "Artificial intelligence-enabled environmental sustainability of products: Marketing benefits and their variation by consumer location and product types", Journal of Cleaner Production, vol. 285, 2021.
+E. Mogaji, T. O. Soetan and T. A. Kieu, "The implications of artificial intelligence on the digital marketing of financial services to vulnerable customers", Australasian Marketing Journal, vol. 29, no. 3, pp. 235-242, 2020.
+U. Arsenijevic and M. Jovic, "Artificial intelligence marketing: Chatbots", Proceedings of the 2019 International Conference on Artificial Intelligence: Applications and Innovations, 2019.
+A. De Bruyn, V. Viswanathan, Y. S. Beh, J. K.-U. Brock and F. von Wangenheim, "Artificial intelligence and marketing: Pitfalls and opportunities", Journal of Interactive Marketing, vol. 51, pp. 91-105, 2020.
+A. Di Vaio, R. Palladino, R. Hassan and O. Escobar, "Artificial intelligence and business models in the sustainable development goals perspective: A systematic literature review", Journal of Business Research, 
+D. Schiessl, H. B. Alves Dias and J. C. Korelo, "Artificial intelligence in marketing: A network analysis and future agenda", Journal of Marketing Analytics, 
+N. Kashive, L. Powale and K. Kashive, "Understanding user perception toward artificial intelligence (AI) enabled e-learning", International Journal of Information and Learning Technology,.
+ B. Shank, C. Graves, A. Gott, P. Gamez and S. Rodriguez, "Feeling our way to machine minds: People's emotions when perceiving mind in artificial intelligence", Computers in Human Behavior,.
+N. Shah, S. Engineer, N. Bhagat, H. Chauhan and M. Shah, "Research trends on the usage of machine learning and artificial intelligence in advertising", Augmented Human Research,.
+D. Vakratsas and X. Wang, "Artificial intelligence in advertising creativity", Journal of Advertising, 2021.
+J. Storbeck and G. L. Clore, "On the interdependence of cognition and emotion", Cognition and Emotion, vol. 21, no. 6, pp. 1212-1237, 2007.
+Z. Chouliara, M. Miller, D. Stott, A. Molassiotis, C. Twelves and N. Kearney, "Older people with cancer: Perceptions and feelings about information decision-making and treatment - A pilot study", European Journal of Oncology Nursing, vol. 8, no. 3, pp. 257-261, 2008.
+
